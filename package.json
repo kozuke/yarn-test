@@ -6,7 +6,7 @@
   "author": "kota ishizuka",
   "license": "MIT",
   "dependencies": {
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "vue": "^2.6.10"
   }
 }
